@@ -1,0 +1,19 @@
+body {
+    background: #f5f7fb;
+}
+.card {
+    border: 0;
+}
+.material-row {
+    border-bottom: 1px solid #eee;
+    padding: 12px 0;
+}
+.status {
+    font-size: 0.8rem;
+}
+.cart-item {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 8px;
+}
